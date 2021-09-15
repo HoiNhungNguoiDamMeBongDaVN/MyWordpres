@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Bình luận cho Đam Mê Bóng Đá	</title>
+	<atom:link href="http://localhost/myproject/wordpress-5.8/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hoinhungnguoidammebongdavn.github.io/MyWordpres</link>
+	<description>Tiểu sử cầu thủ</description>
+	<lastBuildDate>Tue, 14 Sep 2021 15:58:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		Phản hồi cho Leo Messi bởi Ho Dinh Kha		</title>
+		<link>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/leo-messi/#comment-9</link>
+
+		<dc:creator><![CDATA[Ho Dinh Kha]]></dc:creator>
+		<pubDate>Wed, 08 Sep 2021 03:52:00 +0000</pubDate>
+		<guid isPermaLink="false">https://hoinhungnguoidammebongdavn.github.io/MyWordpres/?p=41#comment-9</guid>
+
+					<description><![CDATA[sămemf]]></description>
+			<content:encoded><![CDATA[<p>sămemf</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
