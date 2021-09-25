@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ELP01 &#8211; Đam Mê Bóng Đá</title>
+	<atom:link href="http://localhost/myproject/wordpress-5.8/wordpress/tu-khoa-san-pham/elp01/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hoinhungnguoidammebongdavn.github.io/MyWordpres</link>
+	<description>Tiểu sử cầu thủ</description>
+	<lastBuildDate>Sat, 25 Sep 2021 01:31:58 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Bóng thi đấu của giải ELP</title>
+		<link>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/bong-thi-dau-cu%cc%89a-gia%cc%89i-elp/</link>
+					<comments>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/bong-thi-dau-cu%cc%89a-gia%cc%89i-elp/#respond</comments>
+		
+		<dc:creator><![CDATA[Ho Dinh Kha]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 01:19:26 +0000</pubDate>
+				<guid isPermaLink="false">https://hoinhungnguoidammebongdavn.github.io/MyWordpres/?post_type=product&#038;p=247</guid>
+
+					<description><![CDATA[<ul>
+ 	<li><span style="color: #ff0000;">Bóng mới của ELP</span></li>
+</ul>
+<span style="color: #ff0000;">+ Chất liệu làm bằng nhựa kết tinh</span>
+
+<span style="color: #ff0000;">+ Trọng lượng: 0.5 kg</span>
+
+<span style="color: #ff0000;">+ Kích cỡ: site 6</span>
+
+<img class="alignnone wp-image-248" src="https://hoinhungnguoidammebongdavn.github.io/MyWordpres/wp-content/uploads/2021/09/qua_bong_nike_premier_league_seitiro__1__8294dd1db55e4466b4099d2e696fc83d.png" alt="" width="510" height="507" />]]></description>
+										<content:encoded><![CDATA[<ul>
+<li><span style="color: #ff0000;">Bóng mới của ELP</span></li>
+</ul>
+<p><img loading="lazy" class="alignnone wp-image-248" src="https://hoinhungnguoidammebongdavn.github.io/MyWordpres/wp-content/uploads/2021/09/qua_bong_nike_premier_league_seitiro__1__8294dd1db55e4466b4099d2e696fc83d.png" alt="" width="510" height="507" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/bong-thi-dau-cu%cc%89a-gia%cc%89i-elp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

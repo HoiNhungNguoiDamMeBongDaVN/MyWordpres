@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GA04 &#8211; Đam Mê Bóng Đá</title>
+	<atom:link href="http://localhost/myproject/wordpress-5.8/wordpress/tu-khoa-san-pham/ga04/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hoinhungnguoidammebongdavn.github.io/MyWordpres</link>
+	<description>Tiểu sử cầu thủ</description>
+	<lastBuildDate>Sat, 25 Sep 2021 01:57:47 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Adidas</title>
+		<link>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/adidas-4/</link>
+					<comments>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/adidas-4/#respond</comments>
+		
+		<dc:creator><![CDATA[Ho Dinh Kha]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 09:21:53 +0000</pubDate>
+				<guid isPermaLink="false">https://hoinhungnguoidammebongdavn.github.io/MyWordpres/?post_type=product&#038;p=228</guid>
+
+					<description><![CDATA[<ul>
+ 	<li><span style="color: #339966;">Giày thể thao adidas copa</span></li>
+</ul>
+<span style="color: #339966;">+ Chất liệu vãi</span>
+
+<span style="color: #339966;">+Kích thước: site 35 (giành cho nữ)</span>
+
+<img class="alignnone size-full wp-image-229" src="https://hoinhungnguoidammebongdavn.github.io/MyWordpres/wp-content/uploads/2021/09/6896cb221f5f373be8202edda150e7a5.jpg" alt="" width="988" height="988" />]]></description>
+										<content:encoded><![CDATA[<ul>
+<li><span style="color: #339966;">Giày thể thao adidas copa</span></li>
+</ul>
+<p><img loading="lazy" class="alignnone wp-image-229" src="https://hoinhungnguoidammebongdavn.github.io/MyWordpres/wp-content/uploads/2021/09/6896cb221f5f373be8202edda150e7a5.jpg" alt="" width="993" height="993" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/adidas-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

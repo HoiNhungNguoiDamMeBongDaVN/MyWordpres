@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GP07 &#8211; Đam Mê Bóng Đá</title>
+	<atom:link href="http://localhost/myproject/wordpress-5.8/wordpress/tu-khoa-san-pham/gp07/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hoinhungnguoidammebongdavn.github.io/MyWordpres</link>
+	<description>Tiểu sử cầu thủ</description>
+	<lastBuildDate>Sat, 25 Sep 2021 02:00:31 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Puma</title>
+		<link>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/puma-8/</link>
+					<comments>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/puma-8/#respond</comments>
+		
+		<dc:creator><![CDATA[Ho Dinh Kha]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 09:56:31 +0000</pubDate>
+				<guid isPermaLink="false">https://hoinhungnguoidammebongdavn.github.io/MyWordpres/?post_type=product&#038;p=191</guid>
+
+					<description><![CDATA[<ul>
+ 	<li><span style="color: #ff9900;">Giày thể thao puma classic 012</span></li>
+</ul>
+<span style="color: #ff9900;">+ Chất liệu da cá sấu + vãi tổng hợp</span>
+
+<span style="color: #ff9900;">+ Kích thước: site 41 </span>
+
+<img class=" wp-image-244" src="https://hoinhungnguoidammebongdavn.github.io/MyWordpres/wp-content/uploads/2021/09/Puma-EvoPower-4.3-Tricks-Firm-Ground-giay-da-bong-hana.jpg" alt="" width="614" height="316" />]]></description>
+										<content:encoded><![CDATA[<ul>
+<li><span style="color: #ff9900;">Giày thể thao puma classic 012</span></li>
+</ul>
+<figure id="attachment_244" aria-describedby="caption-attachment-244" style="width: 614px" class="wp-caption alignnone"><img loading="lazy" class=" wp-image-244" src="https://hoinhungnguoidammebongdavn.github.io/MyWordpres/wp-content/uploads/2021/09/Puma-EvoPower-4.3-Tricks-Firm-Ground-giay-da-bong-hana.jpg" alt="" width="614" height="316" /><figcaption id="caption-attachment-244" class="wp-caption-text">GIÀY ĐÁ BÓNG HANA CHUYÊN CUNG CẤP CÁC LOẠI GIÀY ĐÁ BÓNG NIKE, ADIDAS, GIÀY ĐÁ BÓNG SÂN CỎ NHÂN TẠO, GIÀY ĐÁ BÓNG GIÁ RẺ, GIÀY BÓNG ĐÁ, GIÀY ĐÁ BÓNG CHÍNH HÃNG TRÊN TOÀN QUỐC</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/puma-8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Puma</title>
+		<link>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/puma-3/</link>
+					<comments>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/puma-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Ho Dinh Kha]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 08:29:12 +0000</pubDate>
+				<guid isPermaLink="false">https://hoinhungnguoidammebongdavn.github.io/MyWordpres/?post_type=product&#038;p=205</guid>
+
+					<description><![CDATA[<ul>
+ 	<li><span style="color: #ff00ff;">Giày thể thao Puma future</span></li>
+</ul>
+<span style="color: #ff00ff;">+ Chất liệu Vãi </span>
+
+<span style="color: #ff00ff;">+ Kích cỡ : site 40</span>
+
+<img class="" src="https://zocker.vn/photo/giay-da-bong-puma-future-5.jpg" width="255" height="255" />]]></description>
+										<content:encoded><![CDATA[<ul>
+<li><span style="color: #ff00ff;">Giày thể thao Puma future</span></li>
+</ul>
+<p><img loading="lazy" class="" src="https://zocker.vn/photo/giay-da-bong-puma-future-5.jpg" width="255" height="255" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/puma-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
