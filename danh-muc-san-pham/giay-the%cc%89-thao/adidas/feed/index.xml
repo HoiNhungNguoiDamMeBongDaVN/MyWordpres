@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress-5.8/wordpress/danh-muc-san-pham/giay-the%CC%89-thao/adidas/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hoinhungnguoidammebongdavn.github.io/MyWordpres</link>
 	<description>Tiểu sử cầu thủ</description>
-	<lastBuildDate>Sat, 25 Sep 2021 01:59:31 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Sep 2021 13:49:32 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,30 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>Adidas</title>
+		<link>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/adidas-8/</link>
+					<comments>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/adidas-8/#respond</comments>
+		
+		<dc:creator><![CDATA[Ho Dinh Kha]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 13:47:50 +0000</pubDate>
+				<guid isPermaLink="false">https://hoinhungnguoidammebongdavn.github.io/MyWordpres/?post_type=product&#038;p=208</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Giày thể thao adidas x19</li>
+</ul>
+<img class="n3VNCb" src="https://cf.shopee.vn/file/4a1fb0f278484a2a85dd8450edc275fc" alt="NHIỀU MÀU] Giày đá bóng chính hãng Adidas Predator cổ cao 20.3 TF [Tặng tất 50K] [ĐỔI SIZE THOẢI MÁI] &#38;#39; 2020 :P . 2020 &#124; Shopee Việt Nam" width="211" height="211" data-noaft="1" />]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Giày thể thao adidas x19</li>
+</ul>
+<p><img loading="lazy" class="n3VNCb" src="https://cf.shopee.vn/file/4a1fb0f278484a2a85dd8450edc275fc" alt="NHIỀU MÀU] Giày đá bóng chính hãng Adidas Predator cổ cao 20.3 TF [Tặng tất 50K] [ĐỔI SIZE THOẢI MÁI] &amp;#39; 2020 :P . 2020 | Shopee Việt Nam" width="211" height="211" data-noaft="1" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/adidas-8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Adidas</title>
 		<link>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/adidas-7/</link>
 					<comments>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/adidas-7/#respond</comments>
