@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress-5.8/wordpress/tu-khoa-san-pham/elp03/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hoinhungnguoidammebongdavn.github.io/MyWordpres</link>
 	<description>Cứ như thế</description>
-	<lastBuildDate>Sat, 25 Sep 2021 08:15:34 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Sep 2021 08:09:37 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,37 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>Bóng thi đấu ELP</title>
+		<link>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/bong-thi-dau-elp-3/</link>
+					<comments>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/bong-thi-dau-elp-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Ho Dinh Kha]]></dc:creator>
+		<pubDate>Thu, 30 Sep 2021 08:05:40 +0000</pubDate>
+				<guid isPermaLink="false">https://hoinhungnguoidammebongdavn.github.io/MyWordpres/?post_type=product&#038;p=416</guid>
+
+					<description><![CDATA[<ul>
+ 	<li><span style="color: #ff0000;">Bóng ELP cực hót trong những vòng cuối</span></li>
+</ul>
+<span style="color: #ff0000;">+ Chất liệu da cá sấu</span>
+
+<span style="color: #ff0000;">+ Kích thước: site 6</span>
+
+&#160;
+
+<img class="alignnone " src="https://cf.shopee.vn/file/b52504db8c3bd78897b60254fe6faee5" width="637" height="637" />]]></description>
+										<content:encoded><![CDATA[<ul>
+<li><span style="color: #ff0000;">Bóng ELP cực hót trong những vòng cuối</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="alignnone " src="https://cf.shopee.vn/file/b52504db8c3bd78897b60254fe6faee5" width="641" height="641" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/bong-thi-dau-elp-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Bóng thi đấu ELP</title>
 		<link>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/bong-thi-dau-elp-2/</link>
 					<comments>https://hoinhungnguoidammebongdavn.github.io/MyWordpres/sản%20phẩm/bong-thi-dau-elp-2/#respond</comments>
